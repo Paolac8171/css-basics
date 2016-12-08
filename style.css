@@ -25,9 +25,28 @@ h1 {
     font-size: 72px;
 }
 
-h1 h2 {
+h1,h2 {
     font-family: "Oswald", "helvetica Neue";
     text-align: center;
-    color:#2884C3;
+    color: #2884C3;
 }
+body {
+    font-size: 1.5em 
+    font-family:"Crimson Text", "Arial";
+    line-height: 1.5
+}
+code {
+   color: #CE234C; 
+    background-color: lightgray;
+}
+
+snippet {
+    background: lightgray;
+}
+
+font-practice {
+    color: green ;
+}
+
+
 
